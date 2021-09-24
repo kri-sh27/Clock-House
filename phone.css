@@ -1,0 +1,16 @@
+.clockContainer{  
+   height: 100px;
+   width: 100px; 
+  
+
+}
+.image-title{
+   font-size: 14px;
+}
+.navbar ul {
+   display: flex;
+   list-style: none;
+   height: 89px;
+   /* margin: 20px 0; */
+   padding-top: 10px;
+}
